@@ -25,4 +25,4 @@ Ga naar Project Settings → Player → Android → Other Settings:
 
 - Installeer indien nodig de unity package voor flutter_embed_unity
 - In het menu: Flutter Embed → Export project to Flutter app (Android)
-- Select folder: <pad-naar-flutter-app>/android/unityLibrary
+- Select folder: pad-naar-flutter-app/android/unityLibrary
